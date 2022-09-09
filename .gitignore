@@ -1,0 +1,7 @@
+.idea
+.env
+/override/*
+!/override/.gitignore
+!/override/.htaccess
+!/override/example
+!/override/global
